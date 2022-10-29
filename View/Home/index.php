@@ -12,7 +12,7 @@
     <div class="card w-100">
       <div class="card-body">
         <h5 class="card-title">Sản phẩm đã bán</h5>
-        <p class="card-text">40</p>
+        <p class="card-text">20</p>
       </div>
     </div>
   </div>
